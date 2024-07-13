@@ -8,7 +8,7 @@ Pastikan Anda telah menginstal Python dan pustaka Web3 (`pip install web3`).
 
 ## Penggunaan
 
-1. Jalankan skrip `create_eth_accounts.py`.
+1. Jalankan skrip `run.py`.
 2. Skrip akan membuat sejumlah akun Ethereum dan menyimpan kunci privat dan alamat masing-masing akun di `pk.txt` dan `address.txt`.
 
 ## Kontribusi
